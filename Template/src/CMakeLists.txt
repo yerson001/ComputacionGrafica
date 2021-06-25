@@ -1,0 +1,5 @@
+﻿add_subdirectory( hw )
+add_subdirectory( Ag )
+add_subdirectory( hw1 )
+add_subdirectory( hw2 )
+add_subdirectory( hw3 )
